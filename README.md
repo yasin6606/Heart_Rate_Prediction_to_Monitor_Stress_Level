@@ -25,7 +25,7 @@ For training, the model utilizes **CrossEntropyLoss** from PyTorch, which inhere
 # Performance Metrics
 Upon evaluating the model on a test dataset of **41,034 samples**, it achieved impressive results:
 * Accuracy: Approximately 97%
-* Cross Entropy Loss: 0.8
+* Cross Entropy Loss: 0.08
 
 # Conclusion
 This project demonstrates the effectiveness of **MLP** _networks_ in classifying stress-related data based on specific features. The high accuracy indicates a strong model performance, making it a valuable tool for applications in psychological research and stress management.
